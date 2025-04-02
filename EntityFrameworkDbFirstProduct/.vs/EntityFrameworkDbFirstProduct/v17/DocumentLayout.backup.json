@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github\\EntityFrameworkDbFirstMusteri\\EntityFrameworkDbFirstProduct\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5F56A0-9D6F-4AD0-AA47-B29126E81202}|EntityFrameworkDbFirstProduct\\EntityFrameworkDbFirstProduct.csproj|c:\\github\\entityframeworkdbfirstmusteri\\entityframeworkdbfirstproduct\\entityframeworkdbfirstproduct\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE5F56A0-9D6F-4AD0-AA47-B29126E81202}|EntityFrameworkDbFirstProduct\\EntityFrameworkDbFirstProduct.csproj|solutionrelative:entityframeworkdbfirstproduct\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5F56A0-9D6F-4AD0-AA47-B29126E81202}|EntityFrameworkDbFirstProduct\\EntityFrameworkDbFirstProduct.csproj|c:\\github\\entityframeworkdbfirstmusteri\\entityframeworkdbfirstproduct\\entityframeworkdbfirstproduct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE5F56A0-9D6F-4AD0-AA47-B29126E81202}|EntityFrameworkDbFirstProduct\\EntityFrameworkDbFirstProduct.csproj|solutionrelative:entityframeworkdbfirstproduct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5F56A0-9D6F-4AD0-AA47-B29126E81202}|EntityFrameworkDbFirstProduct\\EntityFrameworkDbFirstProduct.csproj|c:\\github\\entityframeworkdbfirstmusteri\\entityframeworkdbfirstproduct\\entityframeworkdbfirstproduct\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DE5F56A0-9D6F-4AD0-AA47-B29126E81202}|EntityFrameworkDbFirstProduct\\EntityFrameworkDbFirstProduct.csproj|solutionrelative:entityframeworkdbfirstproduct\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5F56A0-9D6F-4AD0-AA47-B29126E81202}|EntityFrameworkDbFirstProduct\\EntityFrameworkDbFirstProduct.csproj|c:\\github\\entityframeworkdbfirstmusteri\\entityframeworkdbfirstproduct\\entityframeworkdbfirstproduct\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE5F56A0-9D6F-4AD0-AA47-B29126E81202}|EntityFrameworkDbFirstProduct\\EntityFrameworkDbFirstProduct.csproj|solutionrelative:entityframeworkdbfirstproduct\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5F56A0-9D6F-4AD0-AA47-B29126E81202}|EntityFrameworkDbFirstProduct\\EntityFrameworkDbFirstProduct.csproj|c:\\github\\entityframeworkdbfirstmusteri\\entityframeworkdbfirstproduct\\entityframeworkdbfirstproduct\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DE5F56A0-9D6F-4AD0-AA47-B29126E81202}|EntityFrameworkDbFirstProduct\\EntityFrameworkDbFirstProduct.csproj|solutionrelative:entityframeworkdbfirstproduct\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5F56A0-9D6F-4AD0-AA47-B29126E81202}|EntityFrameworkDbFirstProduct\\EntityFrameworkDbFirstProduct.csproj|c:\\github\\entityframeworkdbfirstmusteri\\entityframeworkdbfirstproduct\\entityframeworkdbfirstproduct\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{DE5F56A0-9D6F-4AD0-AA47-B29126E81202}|EntityFrameworkDbFirstProduct\\EntityFrameworkDbFirstProduct.csproj|solutionrelative:entityframeworkdbfirstproduct\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmProduct.cs",
+              "DocumentMoniker": "C:\\Github\\EntityFrameworkDbFirstMusteri\\EntityFrameworkDbFirstProduct\\EntityFrameworkDbFirstProduct\\FrmProduct.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkDbFirstProduct\\FrmProduct.cs",
+              "ToolTip": "C:\\Github\\EntityFrameworkDbFirstMusteri\\EntityFrameworkDbFirstProduct\\EntityFrameworkDbFirstProduct\\FrmProduct.cs",
+              "RelativeToolTip": "EntityFrameworkDbFirstProduct\\FrmProduct.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAnwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T09:55:37.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmProduct.cs [Design]",
+              "DocumentMoniker": "C:\\Github\\EntityFrameworkDbFirstMusteri\\EntityFrameworkDbFirstProduct\\EntityFrameworkDbFirstProduct\\FrmProduct.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkDbFirstProduct\\FrmProduct.cs",
+              "ToolTip": "C:\\Github\\EntityFrameworkDbFirstMusteri\\EntityFrameworkDbFirstProduct\\EntityFrameworkDbFirstProduct\\FrmProduct.cs [Design]",
+              "RelativeToolTip": "EntityFrameworkDbFirstProduct\\FrmProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T09:53:49.1Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Github\\EntityFrameworkDbFirstMusteri\\EntityFrameworkDbFirstProduct\\EntityFrameworkDbFirstProduct\\Program.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkDbFirstProduct\\Program.cs",
+              "ToolTip": "C:\\Github\\EntityFrameworkDbFirstMusteri\\EntityFrameworkDbFirstProduct\\EntityFrameworkDbFirstProduct\\Program.cs",
+              "RelativeToolTip": "EntityFrameworkDbFirstProduct\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T09:51:28.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmCategory.cs",
+              "DocumentMoniker": "C:\\Github\\EntityFrameworkDbFirstMusteri\\EntityFrameworkDbFirstProduct\\EntityFrameworkDbFirstProduct\\FrmCategory.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkDbFirstProduct\\FrmCategory.cs",
+              "ToolTip": "C:\\Github\\EntityFrameworkDbFirstMusteri\\EntityFrameworkDbFirstProduct\\EntityFrameworkDbFirstProduct\\FrmCategory.cs",
+              "RelativeToolTip": "EntityFrameworkDbFirstProduct\\FrmCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T09:43:02.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Github\\EntityFrameworkDbFirstMusteri\\EntityFrameworkDbFirstProduct\\EntityFrameworkDbFirstProduct\\Model1.edmx",
+              "RelativeDocumentMoniker": "EntityFrameworkDbFirstProduct\\Model1.edmx",
+              "ToolTip": "C:\\Github\\EntityFrameworkDbFirstMusteri\\EntityFrameworkDbFirstProduct\\EntityFrameworkDbFirstProduct\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "EntityFrameworkDbFirstProduct\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-04-02T09:41:38.377Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmCategory.cs [Design]",
+              "DocumentMoniker": "C:\\Github\\EntityFrameworkDbFirstMusteri\\EntityFrameworkDbFirstProduct\\EntityFrameworkDbFirstProduct\\FrmCategory.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkDbFirstProduct\\FrmCategory.cs",
+              "ToolTip": "C:\\Github\\EntityFrameworkDbFirstMusteri\\EntityFrameworkDbFirstProduct\\EntityFrameworkDbFirstProduct\\FrmCategory.cs [Design]",
+              "RelativeToolTip": "EntityFrameworkDbFirstProduct\\FrmCategory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T09:27:59.323Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

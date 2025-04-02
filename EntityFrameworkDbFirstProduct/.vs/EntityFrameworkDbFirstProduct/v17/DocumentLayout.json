@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github\\EntityFrameworkDbFirstMusteri\\EntityFrameworkDbFirstProduct\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5F56A0-9D6F-4AD0-AA47-B29126E81202}|EntityFrameworkDbFirstProduct\\EntityFrameworkDbFirstProduct.csproj|c:\\github\\entityframeworkdbfirstmusteri\\entityframeworkdbfirstproduct\\entityframeworkdbfirstproduct\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{DE5F56A0-9D6F-4AD0-AA47-B29126E81202}|EntityFrameworkDbFirstProduct\\EntityFrameworkDbFirstProduct.csproj|solutionrelative:entityframeworkdbfirstproduct\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Github\\EntityFrameworkDbFirstMusteri\\EntityFrameworkDbFirstProduct\\EntityFrameworkDbFirstProduct\\Model1.edmx",
+              "RelativeDocumentMoniker": "EntityFrameworkDbFirstProduct\\Model1.edmx",
+              "ToolTip": "C:\\Github\\EntityFrameworkDbFirstMusteri\\EntityFrameworkDbFirstProduct\\EntityFrameworkDbFirstProduct\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "EntityFrameworkDbFirstProduct\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-04-02T10:06:21.828Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
